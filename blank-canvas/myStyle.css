@@ -1,0 +1,12 @@
+#container{
+    /*center elements in the container*/
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#myCanvas{
+    /*draws border around canvas*/
+    border: 10px solid #444;
+    border-radius: 5px;
+}
